@@ -6,10 +6,6 @@ Turning lights on and off across a 34-room office building using noisy, partial 
 
 **Result:** across two simulated workdays, the controller cut total cost by **12.7%** compared with leaving every light on, used **14% less electricity**, and kept the lights on for **99.6%** of the time that rooms were occupied.
 
-![Room-by-room lighting decisions over one simulated workday](images/lighting_timeline_day1.png)
-
-*Every row is a room and every column is a 15-second step. Dark blue: people in the room with the lights on. Grey: an empty room with the lights off, which is where the savings come from. Orange (0.19% of the time): someone was in a dark room.*
-
 ---
 
 ## The problem
